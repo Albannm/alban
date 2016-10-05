@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Noront</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="note_edit_title_label">Title Edit Label</string>
+    <string name="note_edit_note_label">Note Edit Label</string>
+    <string name="note_edit_image_button">Change Image</string>
+    <string name="note_edit_location">Set your location</string>
+    <string name="note_edit_sound">Record Audio</string>
+    <string name="note_edit_image">Upload/Choose a picture</string>
+    <string name="note_edit_save_button">Save</string>
+    <string name="note_edit_cancel_button">Cancel</string>
+    <string name="action_settings">Settings</string>
+    <string name="note_view_title_label">Title View Label</string>
+    <string name="note_view_note_label">Note View Label </string>
+    <string name="note_view_photo_imagebutton">View picture</string>
+    <string name="note_view_sound_imagebutton">Play audio</string>
+    <string name="note_view_location_imagebutton">View your location</string>
+    <string name="note_view_editnote_button">Edit note</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
